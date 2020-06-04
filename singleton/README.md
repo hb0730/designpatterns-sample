@@ -7,12 +7,12 @@
 ## 二 实现
 **在java语言中，通常有两种方式构建:**
 1. **饿汉式**: 指全局的单例实例在类装载时创建
-    + Singleton1
+    + [Singleton1](https://github.com/hb0730/designpatterns-sample/tree/master/singleton/src/main/java/com/hb0730/design/patterns/singleton)
 2. **懒汉式**: 指全局的单例实例在第一次使用时创建
-    + Singleton2
-    + Singleton3
+    + [Singleton2](https://github.com/hb0730/designpatterns-sample/tree/master/singleton/src/main/java/com/hb0730/design/patterns/singleton)
+    + [Singleton3](https://github.com/hb0730/designpatterns-sample/tree/master/singleton/src/main/java/com/hb0730/design/patterns/singleton)
 3. **枚举类型**
-    + EnumSingleton
+    + [EnumSingleton](https://github.com/hb0730/designpatterns-sample/tree/master/singleton/src/main/java/com/hb0730/design/patterns/singleton)
 ## jdk应用
  + RunTime
  + NumberFormat
