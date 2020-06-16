@@ -1,4 +1,4 @@
-package com.hb0730.design.method.factory;
+package com.hb0730.design.patterns.method.factory;
 
 import junit.framework.TestCase;
 import org.junit.Test;

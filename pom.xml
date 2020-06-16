@@ -8,6 +8,7 @@
         <module>simple-factory</module>
         <module>singleton</module>
         <module>method-factory</module>
+        <module>abstract-factory</module>
     </modules>
 
     <groupId>com.hb0730</groupId>
