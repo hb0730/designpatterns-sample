@@ -7,3 +7,5 @@ java-design-patterns
  3. 方法工厂 [method-factory](https://github.com/hb0730/designpatterns-sample/tree/master/method-factory)
  4. 抽象工厂 [abstract-factory](https://github.com/hb0730/designpatterns-sample/tree/master/abstract-factory)
  5. 建造者模式 [builder](https://github.com/hb0730/designpatterns-sample/tree/master/builder)
+## 结构型模式
+ 1. 适配器模式 [adaptor](https://github.com/hb0730/designpatterns-sample/tree/master/adaptor)
