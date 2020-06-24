@@ -33,3 +33,7 @@
 + java.io.OutputStreamWriter(OutputStream)
 + javax.xml.bind.annotation.adapters.XmlAdapter#marshal()
 + javax.xml.bind.annotation.adapters.XmlAdapter#unmarshal()
++ spring AOP 中advice通知
+
+## 文章
+[一起学设计模式 - 适配器模式](https://segmentfault.com/a/1190000011856448)
